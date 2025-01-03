@@ -1,4 +1,4 @@
-## CloudFlare-ImgBed
+# CloudFlare-ImgBed
 
 免费图片/文件托管解决方案，基于 Cloudflare Pages 和 Telegram，支持 Telegram Bot 存储渠道和 Cloudflare R2 存储渠道。
 
